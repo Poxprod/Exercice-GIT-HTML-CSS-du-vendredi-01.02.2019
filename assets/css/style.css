@@ -1,0 +1,29 @@
+@import url("reset.css");
+/* Directive d'importation CSS - Evite de l'importer à partir du HTML */
+/* Réinitialisation des styles par utilisation d'une feuille reset*/
+
+body {
+  font-size: 16px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+#paraph {
+  width: 500px;
+  background-color: #6a89cc;
+  /* text-align: center;
+  color: white;
+  font-size: 40px;
+  padding:15px 5px 7px 14px;
+  border: 3px dotted purple;
+  margin: 20px; */
+}
+#paraph2 {
+  width: 400px;
+  background-color: #eb2f06;
+}
+
+#paraph3 {
+  width: 300px;
+  background-color: #78e08f;
+}
+/* */
